@@ -1,4 +1,4 @@
-require_relative '../spec/until_spec.rb'
+require_relative './spec/until_spec.rb'
 
 def using_until
   levitation_force = 6
