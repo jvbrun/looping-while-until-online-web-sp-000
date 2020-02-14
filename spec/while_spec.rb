@@ -1,4 +1,4 @@
-require_relative "./spec/spec_helper"
+require_relative "./spec/spec_helper.rb"
 require_relative "../lib/while.rb"
 
 describe "#using_while" do 
