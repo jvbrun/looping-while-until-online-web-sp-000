@@ -1,3 +1,5 @@
+require_relative './spec/while_spec.rb'
+
 def using_while
   levitation_force = 6
 	
